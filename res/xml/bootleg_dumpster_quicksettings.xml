@@ -46,6 +46,12 @@
         android:summary="@string/qs_footer_warnings_summary"
         android:defaultValue="true" />
 
+    <com.bootleggers.dumpster.preferences.SystemSettingSwitchPreference
+        android:key="qs_quickbar_scroll_enabled"
+        android:title="@string/qqs_scroll_title"
+        android:summary="@string/qqs_scroll_summary"
+        android:defaultValue="false"/>
+
      </PreferenceCategory>
 
     <PreferenceCategory
