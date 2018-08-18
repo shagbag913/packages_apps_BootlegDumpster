@@ -20,7 +20,7 @@
 
     <PreferenceCategory
         android:key="gestures_system_cat"
-        android:title="@string/misc_title">
+        android:title="@string/gestures_system">
 
     <Preference
         android:key="gesture_anywhere"
